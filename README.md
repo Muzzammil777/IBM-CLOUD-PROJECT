@@ -1,4 +1,4 @@
-# MedBot Test Suite
+# Agentic AI Health Symptom Checker(Med Bot)
 
 This directory contains your MedBot service and comprehensive test scripts to validate its functionality.
 
@@ -120,3 +120,4 @@ For technical issues:
 4. Review the console output for specific error messages
 
 Enjoy testing your MedBot! 🤖⚕️
+
